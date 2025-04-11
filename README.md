@@ -40,5 +40,12 @@ You are liable for your own application, so please do your own research and writ
  * [Canada: Study permit: Get the right documents Proof of financial support](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html?utm_source=chatgpt.com)
  * [Quebec: Cost Studies and Living](https://www.quebec.ca/en/education/study-quebec/required-conditions/costs-studies)
 
+### Great Immigration Documentation
+ * [Please check out this very comprehensive documentation and template](https://github.com/alireza12t/immigration_documents_LATEX_Canada)
+    This template is much better than mine, was actually used in a real immigration case, and has variables for easy access and usage. ENJOY!!!
+
+P.S. Please add other sources to this list if you know of any. Thank you.
+
+
 ## Uniting PDFs
 You can use [pdfunite](https://www.cyberciti.biz/faq/pdfunite-merge-several-all-pdf-files-into-one-pdf-file-on-linux/) to merge all your pdf files together. 
